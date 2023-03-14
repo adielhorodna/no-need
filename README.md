@@ -19,12 +19,12 @@ https://github.com/adielhorodna/1stYear
 ![Backend ERD](https://user-images.githubusercontent.com/114962321/225042048-c02500ce-7671-44e0-af05-e03e27409f60.png)
 
 # Backend API Routes
-Cards:
+CARDS:
 Show all cards: /cards (Index,Get)
 
 Show one Card: /cards/:id (Show,Get)
 
-Posts:
+POSTS:
 Create a post: /post (Post)
 
 Read/show the post: /posts (Show,Get)
@@ -34,10 +34,10 @@ Update your posts: /posts/:id (Patch)
 Delete your posts: /posts/:id (Destroy)
 
 
-Moms:
+MOMS:
 Shows users personal account in ‘my account’ page: /moms/:id (Show, Get) 
 
-Scribbles:
+SCRIBBLES:
 Create a Scribble: /scribble (Post)
 Shows all your scribbles in ‘my account’ page: /moms/:id (Show, Get) 
 
