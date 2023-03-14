@@ -15,7 +15,7 @@ https://github.com/adielhorodna/1stYear
 # Component Tree with Client Routes
 ![component tree](https://user-images.githubusercontent.com/114962321/225041728-a44cd213-038a-4fb2-bb55-9d87fc830562.png)
 
-# ERD Diagram, Model Relationships, Validations + Seed Data Example
+# ERD Diagram, Relationships, Validations + Seed Data Example
 ![Backend ERD](https://user-images.githubusercontent.com/114962321/225042048-c02500ce-7671-44e0-af05-e03e27409f60.png)
 
 # Backend API Routes
