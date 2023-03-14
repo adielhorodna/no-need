@@ -20,11 +20,13 @@ https://github.com/adielhorodna/1stYear
 
 # Backend API Routes
 CARDS:
+
 Show all cards: /cards (Index,Get)
 
 Show one Card: /cards/:id (Show,Get)
 
 POSTS:
+
 Create a post: /post (Post)
 
 Read/show the post: /posts (Show,Get)
@@ -35,9 +37,11 @@ Delete your posts: /posts/:id (Destroy)
 
 
 MOMS:
+
 Shows users personal account in ‘my account’ page: /moms/:id (Show, Get) 
 
 SCRIBBLES:
+
 Create a Scribble: /scribble (Post)
 Shows all your scribbles in ‘my account’ page: /moms/:id (Show, Get) 
 
