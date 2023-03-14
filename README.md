@@ -8,6 +8,18 @@ Javascript React Ruby Rails HTML CSS
 # Repo 
 https://github.com/adielhorodna/1stYear
 
+# User Stories
+1. A user can create an account.
+2. A user can log in.
+3. A user can view all cards.
+4. A user can click on a card to view its contents.
+5. A user can create a post.
+6. A user can view all posts.
+7. A user can update their post.
+8. A user can delete their post.
+6. A user can create a scribble.
+7. A user can view all their scribbles.
+
 
 # Wireframe 
 ![wireframe](https://user-images.githubusercontent.com/114962321/225041542-fe7d5220-c28c-4690-bd0c-818646b79a7c.png)
