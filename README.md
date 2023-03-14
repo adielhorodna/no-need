@@ -17,8 +17,8 @@ https://github.com/adielhorodna/1stYear
 6. A user can view all posts.
 7. A user can update their post.
 8. A user can delete their post.
-6. A user can create a scribble.
-7. A user can view all their scribbles.
+9. A user can create a scribble.
+10. A user can view all their scribbles.
 
 
 # Wireframe 
